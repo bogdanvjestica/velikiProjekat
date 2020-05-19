@@ -1,5 +1,5 @@
 # velikiProjekat
-- sajt ima responsibilan dizajn
+- Sajt ima responsibilan dizajn
 - Sadržaj je organizovan na smislen i pregledan način
 - Sajt ima jasnu i ispravnu navigaciju
 - Dizajn grafičkih i drugih elemenata je visokog kvaliteta
